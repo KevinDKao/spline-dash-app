@@ -71,18 +71,7 @@ spline-dash-app/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - [Spline](https://spline.design/) - 3D design platform
 - [Plotly Dash](https://dash.plotly.com/) - Python framework for building analytical web applications
-# Dependencies:
-app_blank.py
-![image](https://github.com/user-attachments/assets/04c7024b-1825-4e0f-8431-af8bd634b34c)
-
-
-app_advanced.py 
-![image](https://github.com/user-attachments/assets/15c96809-ffc1-4e4e-9f45-205109ec06d6)
